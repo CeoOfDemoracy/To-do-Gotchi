@@ -1,6 +1,8 @@
 print("Hello")
 print("chlen")
 
+# todo: remove .txt file annotation from .gitignore
+
 # to commit changes
 # git add .
 # git commit -m "<message>"
